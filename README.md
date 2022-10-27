@@ -7,7 +7,7 @@ Konu başlıkları:
 - Regresyon katsayısı
 - Sabit
 - Hata / Standart Hata
-- Dağılım Grefiği (Serpilme Diyagramı) ve Regresyon Doğrusu
+- Dağılım Grafiği (Serpilme Diyagramı) ve Regresyon Doğrusu
 
 <br>
 
@@ -23,15 +23,15 @@ y = a + bx
 
 Regresyon analizi yapabilmek için elimizde bir veri seti olması gereklidir.
 
-Doğrusal regresyon analizi, değişkenlerr arasındaki ilişkinin doğrusal olduğu durumlarda yapılan regresyon analizidir.
+Doğrusal regresyon analizi, değişkenler arasındaki ilişkinin doğrusal olduğu durumlarda yapılan regresyon analizidir.
 
-Değişkenlerin sayısına göre regresyon ikiye ayrılır. 1 bağımsız ve 1 bağımlı değişken olan durumda yapılan regresyon analizine basit regresyon analizi denir. Birden fazla bağımsız ve 1 bağımlı değişken olan durumda yapılan regesyon analizine ise çoklu regresyon analizi denir.
+Değişkenlerin sayısına göre regresyon ikiye ayrılır. 1 bağımsız ve 1 bağımlı değişken olan durumda yapılan regresyon analizine basit regresyon analizi denir. Birden fazla bağımsız ve 1 bağımlı değişken olan durumda yapılan regresyon analizine ise çoklu regresyon analizi denir.
 
 Basit Doğrusal Regresyon:
 
 1 bağımsız ve 1 bağımlı değişken bulunan, değişkenler arasındaki ilişkinin doğrusal olduğu regresyondur. Değişkenlerden birisi (x) bilindiğinde diğer değişkenin (y) alabileceği değerin tahmin edilmesidir. Bunun yapılabilmesi için x'in aldığı değere göre y'nin alacağı değeri her durumda bulmaya yarayan matematiksel denklemin (eşitlik) bulunması gerekmektedir. Yani, bu matematiksel bilinmelidir ki, x'e göre y'nin alabileceği değer tahmin edilebilsin.
 
-İşte regresyon analizinde yapılan, değişkenler arasındaki ilişkinin matematiksel bir denklem ile aşıklanmasıdır ve buna regresyon denklemi, eşitliği veya modeli adı verilmektedir.
+İşte regresyon analizinde yapılan, değişkenler arasındaki ilişkinin matematiksel bir denklem ile açıklanmasıdır ve buna regresyon denklemi, eşitliği veya modeli adı verilmektedir.
 
 Regresyon denklemi, x ve y değişkenleri arasındaki ilişkinin matematiksel olarak ifadesidir ve bu formül üzerindeki değerlerin yerlerine konulması ile regresyon tahminleri yapmak mümkün olmaktadır.
 
@@ -59,9 +59,9 @@ y = a + bx + e şeklinde formülleştirilir. Yani teorik y değerine hata miktar
 
 ![birinci](https://user-images.githubusercontent.com/54947066/198357921-5cb237a7-95a7-4d60-aeb9-4c2499c647e3.png)
 
-Çokl Regresyon:
+Çoklu Regresyon:
 
-Birdenfazla bağımsız değişken kullanılarak yapılan regresyonanalizine çoklu regresyon analizi adı verilmektedir.
+Birden fazla bağımsız değişken kullanılarak yapılan regresyonanalizine çoklu regresyon analizi adı verilmektedir.
 
 Xi’ler bağımsız değişkenleri ve Y de bağımlı
 değişkeni göstermek üzere en genel çoklu
@@ -69,7 +69,7 @@ regresyon denklemi;
 
 ![image](https://user-images.githubusercontent.com/54947066/198358976-640f1e55-48dc-4e17-b2d5-56e3ea34ff48.png)
 
-
+Sunum videosu: 
 
 Kaynaklar:
 - https://www.youtube.com/watch?v=pGU8PWSBzAI
