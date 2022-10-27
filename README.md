@@ -69,7 +69,7 @@ regresyon denklemi;
 
 ![image](https://user-images.githubusercontent.com/54947066/198358976-640f1e55-48dc-4e17-b2d5-56e3ea34ff48.png)
 
-Sunum videosu: 
+Sunum videosu: https://youtu.be/RTTDHoTCo4g
 
 Kaynaklar:
 - https://www.youtube.com/watch?v=pGU8PWSBzAI
